@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -237,4 +237,3 @@ if st.button("Resolver"):
             "la latencia máxima o reduciendo "
             "las exigencias de capacidad y confiabilidad."
         )
-```
